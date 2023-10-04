@@ -2,6 +2,6 @@
 To show what i've done.
 
 # To-do
--   Insert Figure to APC
+-   Insert Figure to APL
 -   Explanation of Q-learning
 -   Colouring?
