@@ -34,3 +34,17 @@ Hextech chest is ingame item, that "might" have various another items; skins(cos
 {: .notice}
 
 ### Real talk
+
+#### lack of logging
+
+##### Each step
+Okay, "$systemctl api start" is easy, but you tend to forgot. Scavenging 16hour tutorial was huge waste of time.
+
+##### backup
+USB got erased...  
+Ease of reachability shoud've been considered
+
+#### future?
+Taking note would be good, NOT-SOME-OBSCURE-BUNCHOFMEMO, like empty space next to paragraph, some small note that can be easily lost.  
+  
+[Regularily](https://homes.cs.washington.edu/~mernst/advice/progress-report.html) 
